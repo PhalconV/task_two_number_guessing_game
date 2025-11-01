@@ -44,3 +44,5 @@ Step 5: If the user input is higher than the one in the algorithm's memory, it s
 Step 6: If the user input is lower than the one in the algorithm's memory, it shows and output message "You have guessed too low, try again"
 
 The algorithm exits the loop if the guess is correct otherwise it starts the loop again with user input.
+
+The algorith also contains validations that ensures the user input is a number.
