@@ -18,13 +18,8 @@ This is a number guessing game that takes input from the player by asking for th
 - The system picks a number and
 - Asks the player for input
 - The system prints the result if it matches the number it picks and is stored in its memory
-=======
+
 ## ALGORITHM/SET OF INSTRUCTIONS MISSING IN README FILE, PLEASE CHECK!
-
-
-# import necessary libraries
-import random
->>>>>>> 03fe156e3446d5eef3305eb0e2dc53d5d9cdbfab
 
 # Algorithm
 Interacting with the algorithm takes the following step by step process;
