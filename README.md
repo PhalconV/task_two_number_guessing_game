@@ -13,18 +13,13 @@
 # Brief Intro
 This is a number guessing game that takes input from the player by asking for the to enter a value and it matches it to the one the system picks in its memory.
 
-<<<<<<< HEAD
+
 # Aim
 - The system picks a number and
 - Asks the player for input
 - The system prints the result if it matches the number it picks and is stored in its memory
-=======
+
 ## ALGORITHM/SET OF INSTRUCTIONS MISSING IN README FILE, PLEASE CHECK!
-
-
-# import necessary libraries
-import random
->>>>>>> 03fe156e3446d5eef3305eb0e2dc53d5d9cdbfab
 
 # Algorithm
 Interacting with the algorithm takes the following step by step process;
@@ -44,5 +39,8 @@ Step 5: If the user input is higher than the one in the algorithm's memory, it s
 Step 6: If the user input is lower than the one in the algorithm's memory, it shows and output message "You have guessed too low, try again"
 
 The algorithm exits the loop if the guess is correct otherwise it starts the loop again with user input.
+<<<<<<< HEAD
 
 The algorith also contains validations that ensures the user input is a number.
+=======
+>>>>>>> refs/remotes/origin/main
