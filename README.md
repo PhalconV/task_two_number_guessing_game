@@ -11,6 +11,9 @@
 ### Timilehin Ajala
 
 
+## ALGORITHM/SET OF INSTRUCTIONS MISSING IN README FILE, PLEASE CHECK!
+
+
 # import necessary libraries
 import random
 
